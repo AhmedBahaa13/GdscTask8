@@ -1,5 +1,6 @@
-package com.techzonelabs.gdscone
+package com.techzonelabs.gdscone.data
 
+import com.techzonelabs.gdscone.data.ApiInterface
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

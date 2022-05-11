@@ -1,13 +1,12 @@
-package com.techzonelabs.gdscone
+package com.techzonelabs.gdscone.ui.adapter
 
 import android.R
 import android.annotation.SuppressLint
-import android.content.Context
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.squareup.picasso.Picasso
+import com.techzonelabs.gdscone.data.models.PhotoModel
 import com.techzonelabs.gdscone.databinding.PhotoItemBinding
 
 

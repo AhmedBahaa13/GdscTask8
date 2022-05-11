@@ -1,4 +1,4 @@
-package com.techzonelabs.gdscone
+package com.techzonelabs.gdscone.data.models
 
 data class PhotoModel(
     val albumId: Int,

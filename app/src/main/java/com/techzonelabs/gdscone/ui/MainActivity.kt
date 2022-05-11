@@ -1,10 +1,10 @@
-package com.techzonelabs.gdscone
+package com.techzonelabs.gdscone.ui
 
 import android.os.Bundle
-import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
-import androidx.recyclerview.widget.LinearLayoutManager
+import com.techzonelabs.gdscone.ui.adapter.PhotosAdapter
+import com.techzonelabs.gdscone.ui.viewModels.PhotosViewModel
 import com.techzonelabs.gdscone.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
